@@ -12,7 +12,7 @@ O objetivo é transformar rotinas manuais, bases dispersas e conferências demor
 
 Depois da publicação no GitHub Pages, substitua o endereço abaixo pela URL definitiva:
 
-**https://SEU-USUARIO.github.io/igarape-digital/**
+**https://andersonoab.github.io/igarape-digital/**
 
 ## O que existe no portfólio
 
@@ -99,7 +99,7 @@ O arquivo principal do site deve ser chamado **`index.html`**. O GitHub Pages ut
 A URL seguirá este padrão:
 
 ```text
-https://SEU-USUARIO.github.io/igarape-digital/
+https://andersonoab.github.io/igarape-digital/
 ```
 
 Para uma URL gratuita sem o nome do projeto no final, o repositório deve ser chamado exatamente:
